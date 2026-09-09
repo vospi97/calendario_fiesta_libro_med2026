@@ -25,4 +25,4 @@ https://raw.githubusercontent.com/vospi97/calendario_fiesta_libro_med2026/refs/h
 
 ## ¿Encontraste algún error?
 
-Si ves que falta un evento o hay un horario equivocado, abre un Issue en este repositorio o [escríebeme vía Telegram](https://t.me/vospi97) y lo reviso.
+Si ves que falta un evento o hay un horario equivocado, abre un Issue en este repositorio o [escríbeme vía Telegram](https://t.me/vospi97) y lo reviso.
