@@ -10,9 +10,13 @@ Este calendario está diseñado para ayudarte a organizar tu agenda de la Fiesta
 
 - **Google Calendar (web):** Haz clic [aquí](https://calendar.google.com/calendar/r?cid=https%3A%2F%2Fraw.githubusercontent.com%2Fvospi97%2Fcalendario_fiesta_libro_med2026%2Frefs%2Fheads%2Fmain%2FFiesta_del_Libro_2026.ics) para agregarlo directamente.
 
-- - **iPhone, iPad o Mac:** Copia y pega este link en el navegador (webcal://raw.githubusercontent.com/vospi97/calendario_fiesta_libro_med2026/refs/heads/main/Fiesta_del_Libro_2026.ics) y se abrirá tu calendario para agregarlo.
+- - **iPhone, iPad o Mac:** Copia y pega esta dirección  en el navegador
 
-Si ninguno de esos funciona para ti (por ejemplo, usas Outlook o algún calendario en Android), copia esta URL y pégala en la opción de "suscribir por URL" de tu aplicación:
+webcal://raw.githubusercontent.com/vospi97/calendario_fiesta_libro_med2026/refs/heads/main/Fiesta_del_Libro_2026.ics
+
+y se abrirá tu calendario para agregarlo.
+
+Si ninguno de esos funciona para ti (por ejemplo, usas Outlook o algún otro calendario en Android), copia esta URL y pégala en la opción de "suscribir por URL" de tu aplicación:
 
 https://raw.githubusercontent.com/vospi97/calendario_fiesta_libro_med2026/refs/heads/main/Fiesta_del_Libro_2026.ics
 
