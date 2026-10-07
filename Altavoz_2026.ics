@@ -1,0 +1,485 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Altavoz Medellin 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Altavoz 2026
+X-WR-TIMEZONE:America/Bogota
+BEGIN:VEVENT
+UID:84fb582d-5662-5c1e-af9f-0de717ff763c@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T160000
+DTEND;TZID=America/Bogota:20261010T163000
+SUMMARY:Jeip
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:5795a3e9-71bf-5add-b6c6-7b9d8f8fbb77@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T164500
+DTEND;TZID=America/Bogota:20261010T171500
+SUMMARY:Calle Vaga y Los Animales Fumadores
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:29258a6f-f911-588f-84c1-9fbc70265edf@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T173000
+DTEND;TZID=America/Bogota:20261010T183000
+SUMMARY:Rupatrupa
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:1e671186-82f2-5501-b403-31a4f242dae4@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T184500
+DTEND;TZID=America/Bogota:20261010T193000
+SUMMARY:Providencia
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:853c721b-def6-58a0-a0b0-eb4a8cef24e2@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T194500
+DTEND;TZID=America/Bogota:20261010T201500
+SUMMARY:Rasbarule
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:58658f2b-8d9a-5e70-b6e4-9605e34a9c86@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T203000
+DTEND;TZID=America/Bogota:20261010T213000
+SUMMARY:Nonpalidece
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e6c259-d33c-5883-9ed5-86c9ac0fb8f4@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T214500
+DTEND;TZID=America/Bogota:20261010T221500
+SUMMARY:Da Flava
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b9d896-b870-58ae-b7f0-38bd66cee9d9@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T223000
+DTEND;TZID=America/Bogota:20261010T231500
+SUMMARY:El Kalvo
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:4587500f-3103-5898-a8d5-c0634caa29a0@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T233000
+DTEND;TZID=America/Bogota:20261011T003000
+SUMMARY:Sharif & Rapsusklei
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:7f405803-459f-50b7-a0bc-a6bd39c8593c@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T161500
+DTEND;TZID=America/Bogota:20261010T164500
+SUMMARY:Los Norrea
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:916e6820-9239-5045-9e6b-45dc6e640ad9@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T170000
+DTEND;TZID=America/Bogota:20261010T173000
+SUMMARY:La Cordillera
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:c70e3d0b-eeb2-52d4-b6af-1801da3ab8b0@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T174500
+DTEND;TZID=America/Bogota:20261010T183000
+SUMMARY:Oblivion's Mighty Trash
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:d35e053e-61b3-5d51-939f-bad34e685119@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T184500
+DTEND;TZID=America/Bogota:20261010T191500
+SUMMARY:Niko Arias
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:91961d9b-72df-55e3-9d0f-e21a0983404a@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T193000
+DTEND;TZID=America/Bogota:20261010T203000
+SUMMARY:Lia Kali
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:48719010-382d-5716-abdc-332b2792c904@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T204500
+DTEND;TZID=America/Bogota:20261010T211500
+SUMMARY:La Otra Esquina
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:12e703c0-7374-5f2b-bd57-69cccaac9f12@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T213000
+DTEND;TZID=America/Bogota:20261010T220000
+SUMMARY:La Eterna
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:de12836d-8d83-5a57-b817-c6f5155ba738@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T221500
+DTEND;TZID=America/Bogota:20261010T224500
+SUMMARY:Niquitown
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5bba14-62a4-5360-bfe2-be4464fee9c5@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261010T230000
+DTEND;TZID=America/Bogota:20261011T000000
+SUMMARY:Save Ferris
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:7d65de49-2d00-5fbc-8c2b-dfa226da83a4@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T150000
+DTEND;TZID=America/Bogota:20261011T153000
+SUMMARY:Leon Clef
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:243b917a-5114-5287-8538-579a9b02bd80@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T154500
+DTEND;TZID=America/Bogota:20261011T161500
+SUMMARY:Sara Grisales
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:bdc91405-5264-5daa-a633-3740e3fcb769@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T163000
+DTEND;TZID=America/Bogota:20261011T173000
+SUMMARY:Lucy Patané
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:a983c9bc-a195-5d50-aa09-6de4a28c0c8a@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T174500
+DTEND;TZID=America/Bogota:20261011T183000
+SUMMARY:Asuntos Pendientes
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c3cb43-0c64-5c9b-9e01-f593436e2d22@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T184500
+DTEND;TZID=America/Bogota:20261011T191500
+SUMMARY:Black Fairy
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:68e1615d-828d-5dab-b28f-9bc08df97795@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T193000
+DTEND;TZID=America/Bogota:20261011T203000
+SUMMARY:La Santísima Voladora
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0b74f0-dda2-54e5-adce-b825ce4ce358@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T204500
+DTEND;TZID=America/Bogota:20261011T211500
+SUMMARY:Playa Futura
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:adfda771-467e-5aa4-a55b-1e4af0b2e132@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T213000
+DTEND;TZID=America/Bogota:20261011T221500
+SUMMARY:Rey Gordiflón
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:78de3014-eab7-5d5b-9a3e-51b1b00efbb8@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T223000
+DTEND;TZID=America/Bogota:20261011T233000
+SUMMARY:La Mosca
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:468e13d0-b243-5118-89bf-64f5198bc219@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T151500
+DTEND;TZID=America/Bogota:20261011T154500
+SUMMARY:Los Hijos de Papi y Mami
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c149af-5e4d-58c6-8c6c-eb79fa252438@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T160000
+DTEND;TZID=America/Bogota:20261011T164500
+SUMMARY:Entreco
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:05cb1827-38bf-58ce-97c3-cf1b4ef1dbdf@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T170000
+DTEND;TZID=America/Bogota:20261011T173000
+SUMMARY:Los Psychotrópicos
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e261fd-1469-5fef-a302-8208db8a3266@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T174500
+DTEND;TZID=America/Bogota:20261011T181500
+SUMMARY:Antised
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:c8eea683-39c4-5c93-aa4c-348aec114200@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T183000
+DTEND;TZID=America/Bogota:20261011T193000
+SUMMARY:Suicidas
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:3277d9a2-0f2e-5820-9692-753ee10d3027@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T194500
+DTEND;TZID=America/Bogota:20261011T201500
+SUMMARY:Maldecidos por el Sol
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:69a8cd2e-8ffb-5a99-ab47-445b655001aa@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T203000
+DTEND;TZID=America/Bogota:20261011T213000
+SUMMARY:The Adolescents
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:b774a38f-f3a1-527c-813a-10f83d4ad526@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T214500
+DTEND;TZID=America/Bogota:20261011T221500
+SUMMARY:Dead Artist
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:64e45425-4a57-51bf-b862-2fe72b9f81df@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261011T223000
+DTEND;TZID=America/Bogota:20261011T231500
+SUMMARY:Lupus
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3e84c5-0ebc-56f4-a056-3c0bc98052a5@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T150000
+DTEND;TZID=America/Bogota:20261012T153000
+SUMMARY:Envenenados
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:bc2a87e7-a4f8-51dd-b808-25715a8baa25@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T154500
+DTEND;TZID=America/Bogota:20261012T161500
+SUMMARY:Dissidence
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:0bc374a6-babb-55d3-b649-d7defdd2a31c@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T163000
+DTEND;TZID=America/Bogota:20261012T173000
+SUMMARY:Incantation
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:e1063d36-1029-54a4-b207-405c7c577da0@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T174500
+DTEND;TZID=America/Bogota:20261012T181500
+SUMMARY:Rotten Church
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:013f01df-5013-54cf-a2cd-e6c15f5f7209@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T183000
+DTEND;TZID=America/Bogota:20261012T190000
+SUMMARY:Metrallo
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ddadab-9f60-56cf-acd9-9d7153c4f5f4@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T194000
+DTEND;TZID=America/Bogota:20261012T205500
+SUMMARY:La Pestilencia
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:383f846c-f3fe-5db2-ab5a-ffee92ac3e83@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T211500
+DTEND;TZID=America/Bogota:20261012T220000
+SUMMARY:Threat
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfb305c-5ace-53e6-853c-0261a13ce021@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T221500
+DTEND;TZID=America/Bogota:20261012T231500
+SUMMARY:Possessed
+LOCATION:Escenario Altavoz – Estadio Cincuentenario\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Altavoz – Estadio Cincuentenario
+END:VEVENT
+BEGIN:VEVENT
+UID:d1667cf5-d16e-57f9-b8ee-840c00627728@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T151500
+DTEND;TZID=America/Bogota:20261012T154500
+SUMMARY:Blood May Rise
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6eb1b4-b00e-5c0b-b44c-686a8e67a573@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T160000
+DTEND;TZID=America/Bogota:20261012T164500
+SUMMARY:Syracusae
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:555d57dd-ed57-5ce8-ba82-2bd8dd2739c9@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T170000
+DTEND;TZID=America/Bogota:20261012T173000
+SUMMARY:Road to Hell
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:05cdb876-5ef5-5441-9a5f-48e5fa6d3cfa@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T174500
+DTEND;TZID=America/Bogota:20261012T181500
+SUMMARY:Solsticio
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:33a93cfc-6667-5013-8efb-2c9d76e97820@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T183000
+DTEND;TZID=America/Bogota:20261012T193000
+SUMMARY:Dogma
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:c7eebb35-a091-56ec-a5a8-f29d110cb1d0@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T194500
+DTEND;TZID=America/Bogota:20261012T201500
+SUMMARY:Pariah
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:03014b44-b0d1-5878-9ccc-e714ad25579e@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T203000
+DTEND;TZID=America/Bogota:20261012T213000
+SUMMARY:Escuela Grind
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5ff370-0f14-5272-b4b7-efe8a9dcd216@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T214500
+DTEND;TZID=America/Bogota:20261012T223000
+SUMMARY:Grito
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+BEGIN:VEVENT
+UID:87f0fe84-5126-5e21-a8f9-25b4b4bf1270@altavoz2026
+DTSTAMP:20261007T231440Z
+DTSTART;TZID=America/Bogota:20261012T224500
+DTEND;TZID=America/Bogota:20261012T231500
+SUMMARY:Hialina
+LOCATION:Escenario Late Más Fuerte – Parque Norte\, Medellín\, Colombia
+DESCRIPTION:Altavoz 2026 · Escenario Late Más Fuerte – Parque Norte
+END:VEVENT
+END:VCALENDAR
